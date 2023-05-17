@@ -16,28 +16,3 @@ First, by using trigonometric identities and cosine rule.
 
 Secondly, solving algebraic expressions using the Pythagoras theorem.
 Let us see one by one both the proofs or derivation.
-
-# Debugger
-
-- Debug .NET Framework, .NET and Unity game assemblies, no source code required
-- Set breakpoints and step into any assembly
-- Locals, watch, autos windows
-- Variables windows support saving variables (eg. decrypted byte arrays) to disk or view them in the hex editor (memory window)
-- Object IDs
-- Multiple processes can be debugged at the same time
-- Break on module load
-- Tracepoints and conditional breakpoints
-- Export/import breakpoints and tracepoints
-- Call stack, threads, modules, processes windows
-- Break on thrown exceptions (1st chance)
-- Variables windows support evaluating C# / Visual Basic expressions
-- Dynamic modules can be debugged (but not dynamic methods due to CLR limitations)
-- Output window logs various debugging events, and it shows timestamps by default :)
-- Assemblies that decrypt themselves at runtime can be debugged, dnSpy will use the in-memory image. You can also force dnSpy to always use in-memory images instead of disk files.
-- Public API, you can write an extension or use the C# Interactive window to control the debugger
-
-# Assembly Editor
-
-- All metadata can be edited
-- Edit methods and classes in C# or Visual Basic with IntelliSense, no source code required
-- Add new methods, classes or members in C# or Visual Basic
