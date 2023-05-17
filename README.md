@@ -16,3 +16,12 @@ First, by using trigonometric identities and cosine rule.
 
 Secondly, solving algebraic expressions using the Pythagoras theorem.
 Let us see one by one both the proofs or derivation.
+
+# Build
+
+´´´
+git clone --recursive 
+cd 
+# or dotnet build
+./build.ps1 -NoMsbuild
+´´´
