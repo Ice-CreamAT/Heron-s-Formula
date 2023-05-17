@@ -15,4 +15,3 @@ There are two methods by which we can derive Heron’s formula:
 First, by using trigonometric identities and cosine rule.
 
 Secondly, solving algebraic expressions using the Pythagoras theorem.
-Let us see one by one both the proofs or derivation.
