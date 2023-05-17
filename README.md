@@ -41,5 +41,3 @@ Let us see one by one both the proofs or derivation.
 - All metadata can be edited
 - Edit methods and classes in C# or Visual Basic with IntelliSense, no source code required
 - Add new methods, classes or members in C# or Visual Basic
-- IL editor for low-level IL method body editing
-- Low-level metadata tables can be edited. This uses the hex editor internally.
