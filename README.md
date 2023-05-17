@@ -17,17 +17,6 @@ First, by using trigonometric identities and cosine rule.
 Secondly, solving algebraic expressions using the Pythagoras theorem.
 Let us see one by one both the proofs or derivation.
 
-## Building
-
-```PS
-git clone --recursive https://github.com/dnSpyEx/dnSpy.git
-cd dnSpy
-# or dotnet build
-./build.ps1 -NoMsbuild
-```
-
-To debug Unity games, you need this repo too: https://github.com/dnSpyEx/dnSpy-Unity-mono (or get the binaries from https://github.com/dnSpyEx/dnSpy/releases/unity)
-
 # Debugger
 
 - Debug .NET Framework, .NET and Unity game assemblies, no source code required
